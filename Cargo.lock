@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "AUcommand"
-version = "0.1.0"
+name = "au"
+version = "1.0.0"
